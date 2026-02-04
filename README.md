@@ -1,28 +1,39 @@
-# AKF GAM207 Arena Prototype
+# AKF_GAM207_ArenaPrototype
 
-*A fast-paced arena shooter prototype developed in Unreal Engine 5 for GAM 207: Information Technology and Digital Games at SNHU.*
+A fast-paced arena shooter prototype developed in Unreal Engine 5 as part of the GAM 207: Information Technology and Digital Games course at Southern New Hampshire University.
 
-## 🎮 Project Overview
+This project focuses on implementing core gameplay systems and exploring iterative design within a scoped prototype.
 
-This prototype was created as the final project for the GAM 207 course at Southern New Hampshire University. It showcases core gameplay systems built in Unreal Engine using Blueprint scripting, including:
+---
 
-- 🚶‍♂️ **Player Character**: Third-person controller with responsive movement and shooting mechanics.
-- 🤖 **AI Character**: Enemy behavior including basic navigation, pursuit, and attack logic.
-- 🎯 **Game Logic**: Functional gameplay loop including health systems and combat triggers.
-- 🧩 **HUD/Interface**: Custom UI for player health, ammo, and game status.
-- 💎 **Pickups**: Power-ups, health items, or other interactive objects that enhance gameplay.
+## Project Overview
 
-This project demonstrates a foundational understanding of game development principles, Unreal Engine 5 tooling, and iterative game design.
+This prototype was created as a final course project and showcases foundational gameplay systems built in Unreal Engine using Blueprint scripting. The emphasis is on mechanics, interaction, and system integration rather than visual polish.
 
-## 🧪 Technologies Used
+Key systems implemented include:
 
-- **Game Engine**: Unreal Engine 5
-- **Scripting**: Blueprint Visual Scripting
-- **Tools**: Git, GitHub, SNHU Virtual Lab
+- Player character with third-person movement and shooting mechanics
+- Enemy AI featuring basic navigation, pursuit, and attack behavior
+- Core gameplay loop including health management and combat triggers
+- HUD elements displaying player health, ammo, and game state
+- Interactive pickups such as health and power-up items
 
-## 📂 Repository Structure
+This project demonstrates an understanding of Unreal Engine workflows, gameplay logic, and iterative system development.
 
-```nginx
+---
+
+## Technologies Used
+
+- **Game Engine:** Unreal Engine 5
+- **Scripting:** Blueprint Visual Scripting
+- **Version Control:** Git, GitHub
+- **Development Environment:** SNHU Virtual Lab
+
+---
+
+## Repository Structure
+
+```
 AKF_GAM207_ArenaPrototype
 ├── Blueprints/
 ├── Maps/
@@ -30,31 +41,38 @@ AKF_GAM207_ArenaPrototype
 ├── Pickups/
 └── README.md
 ```
-> 🔍 *Note: Structure may vary slightly depending on version and cleanup.*
 
-## 🚀 How to Run
+Note: Structure may vary slightly depending on iteration and cleanup.
+
+---
+
+## How to Run
 
 1. Open the `.uproject` file in Unreal Engine 5.
-2. Press `Play` to launch the prototype in-editor.
-3. Use the assigned input keys (WASD + Mouse) to move and interact.
+2. Launch the project in-editor using the Play button.
+3. Use standard WASD and mouse controls to move and interact.
 
-> Requires Unreal Engine 5 to run. No packaging or standalone build included in this version.
+This project is intended to be run within the Unreal Editor. No packaged build is included.
 
-## 🧠 Course Context
+---
 
-- **Course**: GAM 207 – Information Technology and Digital Games
-- **Instructor**: *(Optional: Add name if you're giving a shoutout)*
-- **Term**: Spring 2025
-- **School**: Southern New Hampshire University (SNHU)
+## Course Context
 
-This project reflects skills developed in:
-- Game logic & AI behavior
-- User interface design
-- Player interaction systems
-- Level prototyping & testing
+- **Course:** GAM 207 – Information Technology and Digital Games
+- **Institution:** Southern New Hampshire University
+- **Term:** Spring 2025
 
-## ✍️ Author
+Skills emphasized in this project include:
+- Gameplay system implementation
+- AI behavior and logic
+- Player interaction design
+- UI integration
+- Level prototyping and testing
+
+---
+
+## Author
 
 **Aaron Kellan-Fernandez**  
-Game Programming & Development student at SNHU  
-🔗 [GitHub Portfolio](https://github.com/AKellFern)
+Game Programming & Development student  
+GitHub: https://github.com/AKellFern
